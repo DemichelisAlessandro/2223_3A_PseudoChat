@@ -4,17 +4,23 @@ var mittenti =[
     1,
     0,
 
+    300,//tappi
+
     0,
     2,
     0,
     2,
     0,
 
+    300,
+
     3,
     0,
     3,
     0,
     3,
+
+    300,
 
     4,
     0,
@@ -23,7 +29,11 @@ var mittenti =[
     0,
     4,
 
-    0
+    300,
+
+    0,
+
+    300
 ];
 
 var destinatari = [
@@ -32,17 +42,23 @@ var destinatari = [
     0,
     1,
 
+    300,
+
     2,
     0,
     2,
     0,
     2,
 
+    300,
+
     0,
     3,
     0,
     3,
     0,
+
+    300,
 
     0,
     4,
@@ -51,7 +67,11 @@ var destinatari = [
     4,
     0,
 
-    5
+    300,
+
+    5,
+
+    300
 ];
 
 var messaggi = [
@@ -60,17 +80,23 @@ var messaggi = [
     "Più o meno, fra poco ho una verifica &#128532;",
     "&#128549;",
 
+    "300",
+
     "Ciao Maria, come è stato il carnevale ad Ivrea?",
     "&#128525; Bellissimo!! &#128151; &#128151;",
     "&#128516; Hai tirato anche tu qualche arancia?",
     "Noooo, sono stata dietro Marco tutto il tempo...",
     "Ah, quindi è venuto anche Marco...",
 
+    "300",
+
     "Ciao Ut!! &#128516; &#128516;",
     "Ehi &#128527;",
     "Sei già arrivato a scuola?",
     "Sì, sono in classe",
     "ohhh &#128519;, come mai non sei passato a salutare?",
+
+    "300",
 
     "Sei arrivato?",
     "Sì, tranquilla",
@@ -79,7 +105,11 @@ var messaggi = [
     "Fra poco vado...",
     "Ma non sei a lezione! &#128545;",
 
-    "Ciao Gigi, oggi a che ora arrivi?"
+    "300",
+
+    "Ciao Gigi, oggi a che ora arrivi?",
+
+    "300"
 ];
 
 var nomeUtenti = [
